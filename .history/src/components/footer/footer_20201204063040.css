@@ -1,0 +1,45 @@
+.footer {
+    background: #141414;
+    width: 100%;
+    color: white;
+    display: grid;
+}
+
+.footer-top {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.footer-top form input[type=text] {
+    border-radius: 20px;
+    padding: 20px;
+    width: 300px;
+}
+
+.footer-top form button[type=submit] {
+    background-color: #ff6600;
+    color: white;
+    padding: 18px;
+    margin-left: -20px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.footer-left {
+    flex: 1;
+}
+
+.footer-center {
+    flex: 2;
+}
+
+.footer-right {
+    flex: 3;
+}

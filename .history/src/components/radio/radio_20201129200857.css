@@ -1,0 +1,20 @@
+.radio {
+    margin-top: 90px;
+    margin-bottom: 0;
+    display: flex;
+    cursor: pointer;
+}
+
+.post-center svg.jss32.jss33 {
+    padding: 30px;
+}
+
+.post-center svg.MuiSvgIcon-root {
+    font-size: 50px;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+    font-size: 50px;
+    color: #ff6600;
+    float: right;
+}

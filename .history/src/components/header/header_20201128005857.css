@@ -1,0 +1,32 @@
+header {
+    background: white;
+}
+
+img {
+    height: 50px;
+    width: 100px;
+}
+
+header.MuiAppBar-colorPrimary {
+    color: black;
+    background-color: white;
+}
+
+span.Header-padding-2 {
+    padding: 20px;
+    margin-right: 10px;
+}
+
+span.Header-padding-2:hover {
+    background-color: #ff6600;
+    color: white;
+}
+
+.Header-sideBarIcon-3 {
+    color: black;
+}
+
+div.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-divider.MuiListItem-button:hover {
+    background-color: #ff6600;
+    color: white;
+}

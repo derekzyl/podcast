@@ -1,0 +1,17 @@
+header {
+    background: white;
+}
+
+img {
+    height: 50px;
+    width: 100px;
+}
+
+header.MuiAppBar-colorPrimary {
+    color: black;
+    background-color: white;
+}
+
+span.MuiAppBar-colorPrimary:hover {
+    background-color: #ff6600;
+}

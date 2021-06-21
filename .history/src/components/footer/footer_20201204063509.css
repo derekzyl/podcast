@@ -1,0 +1,49 @@
+.footer {
+    background: #141414;
+    width: 100%;
+    color: white;
+    display: grid;
+}
+
+.footer-top {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.footer-top form input[type=text] {
+    border-radius: 20px;
+    padding: 16px;
+    border: none;
+    width: 300px;
+}
+
+.footer-top form button[type=submit] {
+    background-color: #ff6600;
+    color: white;
+    padding: 17px;
+    margin-left: -20px;
+    border: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.footer-left {
+    flex: 1;
+}
+
+.footer-center {
+    flex: 2;
+}
+
+.footer-right {
+    flex: 3;
+}

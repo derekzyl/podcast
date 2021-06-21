@@ -1,0 +1,13 @@
+.trending {
+    background-color: #141414;
+}
+
+h4 {
+    color: white;
+}
+
+.slider-box {
+    height: 350px;
+    width: 250px;
+    position: relative;
+}

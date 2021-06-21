@@ -1,0 +1,9 @@
+.trending {
+    widows: 100%;
+    background-color: #141414;
+}
+
+.trending h4 {
+    font-size: 40px;
+    color: white !important;
+}

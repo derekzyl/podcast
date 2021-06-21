@@ -1,0 +1,36 @@
+.trending {
+    background-color: #141414;
+}
+
+h4 {
+    color: white;
+}
+
+.slider-box {
+    margin: 20px;
+    height: 300px;
+    width: 250px;
+    position: relative;
+    background-color: #fff;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.slider-box a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.img-box {
+    height: 170px;
+}
+
+.img-box img {
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}

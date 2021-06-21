@@ -1,0 +1,19 @@
+.radio {
+    margin-top: 90px;
+}
+
+.post-center svg.jss32.jss33 {
+    padding: 30px;
+    color: #ff6600;
+}
+
+.post-center MuiSvgIcon-root {
+    fill: #ff6600;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 50px;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+}

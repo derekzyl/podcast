@@ -1,0 +1,27 @@
+.article {
+    width: 40vw;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+button {
+    margin: 0 auto;
+    padding: 5px;
+}
+
+button:hover {
+    background-color: #2e2d2c;
+    color: white;
+}

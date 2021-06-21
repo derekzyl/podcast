@@ -1,0 +1,29 @@
+.article {
+    display: flex;
+}
+
+.grid-container {
+    display: grid;
+    width: 20px;
+    grid-template-rows: auto auto auto;
+    padding: 10px;
+}
+
+.grid-container:hover {
+    cursor: pointer;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+img {
+    width: 120px;
+}
+
+p {
+    overflow-wrap: break-word;
+}

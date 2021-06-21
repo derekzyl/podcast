@@ -1,0 +1,9 @@
+.footer {
+    background: #141414;
+    width: 100%;
+    color: white;
+}
+
+input[type=text] {
+    border-radius: 20px;
+}

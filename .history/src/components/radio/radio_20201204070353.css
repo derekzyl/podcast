@@ -1,0 +1,12 @@
+#live-radio {
+    font-size: 40px;
+    font-family: 'Arvo', serif;
+}
+
+.live-radio {
+    background-image: url('../../images/live programme.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
